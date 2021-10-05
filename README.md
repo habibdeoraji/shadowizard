@@ -9,7 +9,7 @@ Get perfect shadows every time for the non-designer.
 Then...
 
 ```
-import { shadowizard_habib } from 'shadowizard_habiby';
+import { shadowizard_habib } from 'shadowizard_habib';
 
 shadowizard_habib({
     shadow_type: 'soft',
