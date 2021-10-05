@@ -1,0 +1,19 @@
+{
+  "name": "shadowizard_habib",
+  "version": "1.1.0",
+  "description": "Add awesome shadow for the non designer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habibdeoraji/shadowizard.git"
+  },
+  "author": "Habib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/habibdeoraji/shadowizard/issues"
+  },
+  "homepage": "https://github.com/habibdeoraji/shadowizard#readme"
+}
